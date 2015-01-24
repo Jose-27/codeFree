@@ -1,11 +1,2 @@
-<div class="nav">
-	<ul>
-		<li><i class="icon-note"></i></li>
-		<li><i class="icon-code"></i></li>
-		<li><i class="icon-code"></i></li>
-		<li><i class="icon-code"></i></li>
-	</ul>
-</div>
-<div class="main-container">
-	<div ng-view=""></div>
-</div>
+<div ng-include="'navbar.html'"></div>
+<div class="main-view-container" ui-view ></div>
