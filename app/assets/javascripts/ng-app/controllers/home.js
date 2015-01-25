@@ -1,4 +1,4 @@
     
-    app.controller('HomeCtrl', function ($scope) {
-        
-    });
+    app.controller('HomeCtrl',['$scope','$location', function ($scope, $location) {
+        $scope.showSearch = $location.path() === '/';
+    }]);

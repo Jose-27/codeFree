@@ -15,6 +15,8 @@ gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
 gem 'bson_ext'
 gem 'bower-rails'
 gem 'angular-rails-templates'
+gem "modernizr-rails"
+gem "gumby"
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
