@@ -1,6 +1,7 @@
-<div class="container" >
-  <div id="editor">some text</div>
-  <iframe id="view"></iframe>
+<div class="container">
+
+<label for="editorId" class="label">javaScript</label>
+<div id="editor"></div>
 </div>
 
 <div class="coders-nav-bar">
@@ -19,18 +20,25 @@
 </div>
 
 <script type="text/javascript">
-   //set font size
-   document.getElementById('editor').style.fontSize="14px";
+
     var textarea = $('textarea[name="html"]');
     textarea.hide();
     var view = $('#view');
     var editor = ace.edit("editor");
+    editorSetup();
+
+   function editorSetup(){
+       //set font size
+    document.getElementById('editor').style.fontSize="14px";
     editor.setTheme("ace/theme/monokai");
     editor.getSession().setMode("ace/mode/html");
     editor.getSession().setUseWrapMode(true);
-    editor.setHighlightActiveLine(false);
+    editor.setHighlightActiveLine(true);
     editor.setShowPrintMargin(false);  
     editor.getSession().on('change', function () {
     view.contents().find('body').html(editor.getSession().getValue());
      });
+
+  }
 </script>
+
