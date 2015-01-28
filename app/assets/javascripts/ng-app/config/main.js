@@ -29,6 +29,9 @@
             .state('sign-up', {
                 url: '/sign-up',
                 templateUrl: 'sign-up.html'
+            }).state('coders',{
+                url: '/coders',
+                templateUrl: 'coders.html'
             });
 
     // default fall back route

@@ -1,0 +1,36 @@
+<div class="container" >
+  <div id="editor">some text</div>
+  <iframe id="view"></iframe>
+</div>
+
+<div class="coders-nav-bar">
+  <ul>
+    <div class="brand" style="background-color:#333;color:#fff!important;">codeFree</div>
+  <li><a>option1</a></li> 
+  <li><a>option2</a></li> 
+  <li><a>option3</a></li> 
+  <li><a>option4</a></li> 
+  <li><a>option5</a></li> 
+  <li><a>option6</a></li> 
+  <li><a>option7</a></li>
+  <li><a>option8</a></li> 
+  <li><a>option9</a></li>
+  </ul>   
+</div>
+
+<script type="text/javascript">
+   //set font size
+   document.getElementById('editor').style.fontSize="14px";
+    var textarea = $('textarea[name="html"]');
+    textarea.hide();
+    var view = $('#view');
+    var editor = ace.edit("editor");
+    editor.setTheme("ace/theme/monokai");
+    editor.getSession().setMode("ace/mode/html");
+    editor.getSession().setUseWrapMode(true);
+    editor.setHighlightActiveLine(false);
+    editor.setShowPrintMargin(false);  
+    editor.getSession().on('change', function () {
+    view.contents().find('body').html(editor.getSession().getValue());
+     });
+</script>
