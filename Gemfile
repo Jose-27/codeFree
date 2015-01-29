@@ -17,7 +17,6 @@ gem 'bower-rails'
 gem 'angular-rails-templates'
 gem "modernizr-rails"
 gem "gumby"
-gem 'ace-rails-ap'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
