@@ -96,28 +96,21 @@ html,body{
 			}
 		}
 	}
-	.wrapper{
+.wrapper{
 	width: 100%;
 	position: absolute;
 	top: 0px;
 	left: 0px;
 	bottom: 0px;
 	right: 0px;
+	.ace_editor{
+	    position: relative;
+	    width: 50%;
+	    height: 600px;
+
 	}
-#editor{
-     position: absolute;
-                top: 0;
-                right: 0;
-                bottom: 0;
-                left: 0;
-    }
-.label{
-position: absolute;
-z-index: 99;
-padding: 0;
-font-size: 70%;
-opacity: .4;
-right: 15px;
-bottom: 5%;
-margin: 0;
+}
+.brand{
+	background-color:#333;
+	color:#fff;
 }

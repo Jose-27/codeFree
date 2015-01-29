@@ -1,12 +1,13 @@
-<div class="container">
-
-<label for="editorId" class="label">javaScript</label>
-<div id="editor"></div>
+<div class="wrapper">
+  <section ng-controller="AceCtrl">
+    <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()"></select> 
+    <div ui-ace="aceOption" ng-model="aceModel" class="ace_editor"></div>
+  </section>
 </div>
-
+<!-- footer nav -->
 <div class="coders-nav-bar">
   <ul>
-    <div class="brand" style="background-color:#333;color:#fff!important;">codeFree</div>
+    <div class="brand">codeFree</div>
   <li><a>option1</a></li> 
   <li><a>option2</a></li> 
   <li><a>option3</a></li> 
@@ -18,27 +19,4 @@
   <li><a>option9</a></li>
   </ul>   
 </div>
-
-<script type="text/javascript">
-
-    var textarea = $('textarea[name="html"]');
-    textarea.hide();
-    var view = $('#view');
-    var editor = ace.edit("editor");
-    editorSetup();
-
-   function editorSetup(){
-       //set font size
-    document.getElementById('editor').style.fontSize="14px";
-    editor.setTheme("ace/theme/monokai");
-    editor.getSession().setMode("ace/mode/html");
-    editor.getSession().setUseWrapMode(true);
-    editor.setHighlightActiveLine(true);
-    editor.setShowPrintMargin(false);  
-    editor.getSession().on('change', function () {
-    view.contents().find('body').html(editor.getSession().getValue());
-     });
-
-  }
-</script>
 

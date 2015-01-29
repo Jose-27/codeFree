@@ -5,7 +5,8 @@
        "angular": "latest",
        "angular-ui-router": "latest",
        "angular-animate": "latest",
-       "gumby": "latest"
+       "gumby": "latest",
+       "angular-ui-ace":"latest"
     }
   },
   "vendor": {

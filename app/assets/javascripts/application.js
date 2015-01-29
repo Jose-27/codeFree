@@ -18,6 +18,6 @@
 //= require angular-rails-templates
 //= require_tree ../templates
 //= require gumby
-//= require ace/ace
-//= require ace/theme-twilight
+//= require angular-ui-ace
+//= require ace-builds/src/ace 
 //= require_tree .
