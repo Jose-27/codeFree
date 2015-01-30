@@ -1,9 +1,10 @@
-<div class="wrapper">
-  <section ng-controller="AceCtrl">
+<div class="wrapper" ng-controller="AceCtrl">
+  <section >
     <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
    <!--  <p class="editor-label">{{mode}}</p> -->
-    <div ui-ace="aceOption" ng-model="aceModel" class="ace_editor"></div>
+    <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
   </section>
+   <div id="ace_document"style="border:1px solid red; position:relative; width:50%; height:300px; float:right;"> {{aceDocumentValue}}</div>
 </div>
 <!-- footer nav -->
 <div class="coders-nav-bar">
