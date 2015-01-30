@@ -1,13 +1,14 @@
 <div class="wrapper">
   <section ng-controller="AceCtrl">
-    <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()"></select> 
+    <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
+   <!--  <p class="editor-label">{{mode}}</p> -->
     <div ui-ace="aceOption" ng-model="aceModel" class="ace_editor"></div>
   </section>
 </div>
 <!-- footer nav -->
 <div class="coders-nav-bar">
   <ul>
-    <div class="brand">codeFree</div>
+    <div class="brand"><a href="/">codeFree</a></div>
   <li><a>option1</a></li> 
   <li><a>option2</a></li> 
   <li><a>option3</a></li> 

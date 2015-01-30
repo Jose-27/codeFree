@@ -46,8 +46,8 @@ html,body{
 	width: 100%;
 	height:100%;
 	.container{
-    width: 100%;
-    margin: 0 auto;
+	    width: 100%;
+	    margin: 0 auto;
 	}
 }
 .search-circle{
@@ -80,7 +80,6 @@ html,body{
 		color: #979797;
 		z-index: 999;
 		background-color: #FFF;
-		
 			ul{margin: 0;
 			
 			li{
@@ -93,24 +92,45 @@ html,body{
 				display: inline-block;
 				padding: 0 50px 0 50px;
 				text-align: center;
+				background-color:#272822;
+				a{color: #fff;}
 			}
 		}
 	}
-.wrapper{
-	width: 100%;
+section{
+	width: 50%;
 	position: absolute;
 	top: 0px;
 	left: 0px;
 	bottom: 0px;
 	right: 0px;
+	select {
+		position:absolute;
+		z-index: 999;
+		right: 0;
+		background-color:#272822;
+		border:none;
+		color: #7a7b77;
+		font-weight: 600;
+		font-size: .9em;
+		  &:focus{
+		  	outline: none;
+		  }
+	}
 	.ace_editor{
 	    position: relative;
-	    width: 50%;
-	    height: 600px;
+	    width: 100%;
+	    height: 100%;
 
 	}
-}
-.brand{
-	background-color:#333;
-	color:#fff;
+	.editor-label{
+		position:absolute;
+		z-index: 99;
+		font-size: .9em;
+		font-weight: 600;
+		opacity: .4;
+		right: 15px;
+		bottom: 5%;
+		color: #fff;
+    }
 }
