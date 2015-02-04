@@ -1,35 +1,40 @@
 <div class="wrapper" ng-controller="AceCtrl">
-  <div ui-layout> 
-    <div ui-layout="{flow : 'column'}" >
-      <div ui-layout-container>
-        <section>
-          <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
-         <!--  <p class="editor-label">{{mode}}</p> -->
-          <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
-        </section>
-      </div>
 
-      <div ui-layout-container>
-        <textarea id="ace_document">{{aceDocumentValue}}</textarea>
+     <div ui-layout  >
+      <div ui-layout-container class=" html-back" >
+        <div ui-layout="{flow : 'column'}" >
+          <div ui-layout-container class=" html-back" >
+            <div id="ace_document"> {{aceDocumentValue}}</div>
+          </div>
+        </div>
       </div>
-
+      
+      <div ui-layout-container> 
+        <div ui-layout="{flow : 'column'}" >
+          <div ui-layout-container></div>
+          <div ui-layout-container>
+             <section>
+              <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
+              <!--  <p class="editor-label">{{mode}}</p> -->
+              <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
+            </section>
+          </div>
+          <div ui-layout-container></div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
+
+</div> <!-- wrapper --> 
 
 <!-- footer nav -->
 <div class="coders-nav-bar">
-  <ul>
+<a class="buttonHide"ng-click="hideBar =!hideBar"> show tools bar</a>
+  <ul ng-show="hideBar">
     <div class="brand"><a href="/">codeFree</a></div>
   <li><a>option1</a></li> 
   <li><a>option2</a></li> 
   <li><a>option3</a></li> 
-  <li><a>option4</a></li> 
-  <li><a>option5</a></li> 
-  <li><a>option6</a></li> 
-  <li><a>option7</a></li>
-  <li><a>option8</a></li> 
-  <li><a>option9</a></li>
+  <li><a>option4</a></li>  
   </ul>   
 </div>
 

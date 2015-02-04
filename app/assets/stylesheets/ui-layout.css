@@ -21,10 +21,13 @@
   -webkit-justify-content: center;
   justify-content: center;
 
-  background-color: #ffffff;
+  background-color: #333;
   right: auto;
   position: absolute;
   z-index: 1010;
+}
+.ui-splitbar:hover{
+  background-color: red;
 }
 
 .ui-layout-row > .ui-splitbar{

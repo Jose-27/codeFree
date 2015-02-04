@@ -10,8 +10,8 @@
 	  $scope.mode = $scope.modes[0];
 	 
 
-	 $scope.aceLoaded = function(_editor) {
-	 mode: $scope.mode.toLowerCase(),
+	$scope.aceLoaded = function(_editor) {
+     mode: $scope.mode.toLowerCase(),
     $scope.aceSession = _editor.getSession();
      _editor.setTheme("ace/theme/monokai");
 
@@ -26,10 +26,10 @@
 	      $scope.modeChanged = function () {
 	        _editor.getSession().setMode("ace/mode/" + $scope.mode.toLowerCase());
 	      };
-	};
-	$scope.aceChanged = function () {
-	    $scope.aceDocumentValue = $scope.aceSession.view.contents().getValue();
-	};
+    };
 
+	$scope.aceChanged = function () {
+	    $scope.aceDocumentValue = $scope.aceSession.getDocument().getValue();
+	};
 });
    
