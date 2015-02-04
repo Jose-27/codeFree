@@ -19,5 +19,6 @@
 //= require_tree ../templates
 //= require gumby
 //= require angular-ui-ace
+//= require ui-layout
 //= require ace-builds/src/ace 
 //= require_tree .

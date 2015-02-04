@@ -103075,3 +103075,2980 @@ Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-01-30 14:09:04 -
 
 
 Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-01-30 14:09:04 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 20:27:22 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 352ms (Views: 351.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 20:27:22 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 179ms (Views: 178.7ms)
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:22 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 204ms (Views: 203.8ms)
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 20:27:23 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 20:28:03 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 170ms (Views: 169.7ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 170ms (Views: 169.7ms)
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 20:28:04 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:22:11 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 21ms
+
+ActionView::Template::Error (couldn't find file 'ui-layout'
+  (in /home/jose/Desktop/codeFree/app/assets/stylesheets/application.css:16)):
+    32: 
+    33: 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    34: 
+    35:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    36:   <%= javascript_include_tag 'application' %>
+    37:   <%= javascript_include_tag :modernizr %>
+    38:   <%= csrf_meta_tags %>
+  app/views/layouts/application.html.erb:35:in `_app_views_layouts_application_html_erb___1556084643734057868_37838280'
+  app/controllers/application_controller.rb:6:in `index'
+
+
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (9.0ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (19.2ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2015-02-03 21:22:11 -0500
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"favicon"}
+  Rendered application/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 26ms
+
+ActionView::Template::Error (couldn't find file 'ui-layout'
+  (in /home/jose/Desktop/codeFree/app/assets/stylesheets/application.css:16)):
+    32: 
+    33: 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    34: 
+    35:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    36:   <%= javascript_include_tag 'application' %>
+    37:   <%= javascript_include_tag :modernizr %>
+    38:   <%= csrf_meta_tags %>
+  app/views/layouts/application.html.erb:35:in `_app_views_layouts_application_html_erb___1556084643734057868_37838280'
+  app/controllers/application_controller.rb:6:in `index'
+
+
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (9.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:34:34 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 145ms
+
+ActionView::Template::Error (couldn't find file 'ui-layout'
+  (in /home/jose/Desktop/codeFree/app/assets/javascripts/application.js:22)):
+    33: 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    34: 
+    35:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    36:   <%= javascript_include_tag 'application' %>
+    37:   <%= javascript_include_tag :modernizr %>
+    38:   <%= csrf_meta_tags %>
+    39: </head>
+  app/views/layouts/application.html.erb:36:in `_app_views_layouts_application_html_erb___1556084643734057868_37838280'
+  app/controllers/application_controller.rb:6:in `index'
+
+
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (9.4ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2015-02-03 21:34:34 -0500
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"favicon"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 88ms
+
+ActionView::Template::Error (couldn't find file 'ui-layout'
+  (in /home/jose/Desktop/codeFree/app/assets/javascripts/application.js:22)):
+    33: 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    34: 
+    35:   <%= stylesheet_link_tag    'application', media: 'all' %>
+    36:   <%= javascript_include_tag 'application' %>
+    37:   <%= javascript_include_tag :modernizr %>
+    38:   <%= csrf_meta_tags %>
+    39: </head>
+  app/views/layouts/application.html.erb:36:in `_app_views_layouts_application_html_erb___1556084643734057868_37838280'
+  app/controllers/application_controller.rb:6:in `index'
+
+
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/jose/.rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (9.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 312ms (Views: 312.0ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 182ms (Views: 181.8ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:09 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 21:40:10 -0500
+
+
+Started GET "/home" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"home"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 163ms (Views: 162.6ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:40:18 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 167ms (Views: 167.1ms)
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 21:40:19 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 228ms (Views: 228.1ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 184ms (Views: 183.7ms)
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 21:41:10 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:42:13 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 225ms (Views: 225.3ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 170ms (Views: 169.5ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 21:42:14 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 225ms (Views: 225.0ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 190ms (Views: 190.0ms)
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:21 -0500
+
+
+Started GET "/assets/icons/entypo.woff" for 127.0.0.1 at 2015-02-03 21:51:22 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 167ms (Views: 166.4ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:51:26 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 158ms (Views: 157.6ms)
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 21:51:27 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 232ms (Views: 232.0ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 179ms (Views: 179.1ms)
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:00 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:52:01 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 21:52:01 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 21:54:03 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 233ms (Views: 232.9ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:54:03 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:54:03 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 173ms (Views: 173.3ms)
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 21:54:04 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 253ms (Views: 252.9ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 21:55:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 166ms (Views: 166.1ms)
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 21:55:56 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 224ms (Views: 223.7ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 160ms (Views: 159.4ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:01:18 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:05:37 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 220ms (Views: 219.4ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 169ms (Views: 168.7ms)
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:05:38 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:06:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 239ms (Views: 238.7ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 185ms (Views: 185.1ms)
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:06:51 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 211ms (Views: 211.0ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:08:23 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 163ms (Views: 162.4ms)
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:08:24 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:08:46 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 194ms (Views: 194.1ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:46 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 159ms (Views: 159.0ms)
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:08:47 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 197ms (Views: 197.1ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 160ms (Views: 160.1ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:16 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:09:17 -0500
+
+
+Started GET "/assets/ace-builds/src/mode-groovy.js" for 127.0.0.1 at 2015-02-03 22:09:23 -0500
+
+
+Started GET "/assets/ace-builds/src/mode-latex.js" for 127.0.0.1 at 2015-02-03 22:09:25 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 211ms (Views: 210.5ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:09:50 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 165ms (Views: 164.9ms)
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:09:51 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 270ms (Views: 269.8ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 168ms (Views: 168.0ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:08 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:11:09 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:11:24 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 196ms (Views: 195.6ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 158ms (Views: 157.6ms)
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:11:25 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 193ms (Views: 192.4ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 160ms (Views: 159.8ms)
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 22:12:08 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 22:12:09 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 263ms (Views: 262.8ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 168ms (Views: 167.5ms)
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:42:06 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:42:57 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 226ms (Views: 225.7ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 176ms (Views: 176.1ms)
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:42:58 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 225ms (Views: 225.2ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 189ms (Views: 188.8ms)
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:10 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:11 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:11 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:43:11 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 252ms (Views: 251.9ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 180ms (Views: 179.7ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:43:45 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 253ms (Views: 252.5ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:03 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 164ms (Views: 163.7ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:45:04 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 190ms (Views: 189.4ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 168ms (Views: 168.2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:45:28 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 227ms (Views: 226.3ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 169ms (Views: 169.0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:47:33 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:47:34 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 262ms (Views: 261.5ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 157ms (Views: 156.9ms)
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:53 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:54 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:48:54 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:48:54 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 199ms (Views: 198.4ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:11 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 162ms (Views: 161.7ms)
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:49:12 -0500
+
+
+Started GET "/coders" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"coders"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 236ms (Views: 235.9ms)
+
+
+Started GET "/assets/_global.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/gumby.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ui-layout.css?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/angular-animate/angular-animate.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/coders.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/angular-rails-templates.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/global" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"assets/global"}
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 174ms (Views: 174.0ms)
+
+
+Started GET "/assets/navbar.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/one.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/sign-up.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/two.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/gumby.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/angular-ui-ace/ui-ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ui-layout.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ace-builds/src/ace.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ng-app/app.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ng-app/config/main.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ng-app/controllers/home.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2015-02-03 23:49:55 -0500
+
+
+Started GET "/assets/ace-builds/src/theme-monokai.js" for 127.0.0.1 at 2015-02-03 23:49:56 -0500

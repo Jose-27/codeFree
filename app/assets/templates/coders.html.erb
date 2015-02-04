@@ -1,11 +1,22 @@
 <div class="wrapper" ng-controller="AceCtrl">
-  <section >
-    <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
-   <!--  <p class="editor-label">{{mode}}</p> -->
-    <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
-  </section>
-   <div id="ace_document"style="border:1px solid red; position:relative; width:50%; height:300px; float:right;"> {{aceDocumentValue}}</div>
+  <div ui-layout> 
+    <div ui-layout="{flow : 'column'}" >
+      <div ui-layout-container>
+        <section>
+          <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
+         <!--  <p class="editor-label">{{mode}}</p> -->
+          <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
+        </section>
+      </div>
+
+      <div ui-layout-container>
+        <textarea id="ace_document">{{aceDocumentValue}}</textarea>
+      </div>
+
+    </div>
+  </div>
 </div>
+
 <!-- footer nav -->
 <div class="coders-nav-bar">
   <ul>
