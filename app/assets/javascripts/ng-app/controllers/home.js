@@ -32,4 +32,3 @@
 	    $scope.aceDocumentValue = $scope.aceSession.getDocument().getValue();
 	};
 });
-   

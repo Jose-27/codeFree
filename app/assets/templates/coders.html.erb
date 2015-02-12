@@ -1,17 +1,18 @@
 <div class="wrapper" ng-controller="AceCtrl">
 
-     <div ui-layout  >
+     <div ui-layout >
       <div ui-layout-container class=" html-back" >
         <div ui-layout="{flow : 'column'}" >
           <div ui-layout-container class=" html-back" >
-            <div id="ace_document"> {{aceDocumentValue}}</div>
+            <!-- <div id="ace_document" style="background-color:#000;"> {{aceDocumentValue}}</div> -->
+            <compiler id="ace_document" html="aceDocumentValue"></compiler>
           </div>
         </div>
       </div>
       
       <div ui-layout-container> 
         <div ui-layout="{flow : 'column'}" >
-          <div ui-layout-container></div>
+          <div ui-layout-container style="background-color:#000;"></div>
           <div ui-layout-container>
              <section>
               <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
@@ -19,7 +20,7 @@
               <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
             </section>
           </div>
-          <div ui-layout-container></div>
+          <div ui-layout-container style="background-color:#000;"></div>
         </div>
       </div>
     </div>
