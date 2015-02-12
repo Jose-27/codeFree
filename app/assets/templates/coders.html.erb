@@ -15,8 +15,8 @@
           <div ui-layout-container style="background-color:#000;"></div>
           <div ui-layout-container>
              <section>
-              <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select> 
-              <!--  <p class="editor-label">{{mode}}</p> -->
+             <!--  <select ng-model="mode" ng-options="m for m in modes" ng-change="modeChanged()" autofocus="0"></select>  -->
+               <p class="editor-label">HTML</p>
               <div ui-ace="{onLoad: aceLoaded,onChange: aceChanged}" ng-model="aceModel" class="ace_editor"></div>
             </section>
           </div>
