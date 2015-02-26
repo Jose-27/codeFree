@@ -32,13 +32,11 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <%= stylesheet_link_tag    'application', media: 'all' %>
-  <%= javascript_include_tag 'application' %>
-  <%= javascript_include_tag :modernizr %>
+  <%= stylesheet_link_tag 'application', media: 'all' %>
   <%= csrf_meta_tags %>
 </head>
 <body ng-controller="HomeCtrl">
 <%= yield %>
-
+  <%= javascript_include_tag 'application' %>
 </body>
 </html>

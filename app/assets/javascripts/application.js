@@ -17,8 +17,22 @@
 //= require angular-ui-router
 //= require angular-rails-templates
 //= require_tree ../templates
-//= require gumby
 //= require angular-ui-ace
 //= require ui-layout
 //= require ace-builds/src/ace 
 //= require_tree .
+//========Vendor Files============
+//= require modernizr-2.6.2.min
+//= require gumby.min
+//= require gumby.init
+//= require plugins
+//= require ui/gumby.checkbox
+//= require ui/gumby.fixed
+//= require ui/gumby.navbar
+//= require ui/gumby.radiobtn
+//= require ui/gumby.retina
+//= require ui/gumby.skiplink
+//= require ui/gumby.tabs
+//= require ui/gumby.toggleswitch
+//= require ui/jquery.validation
+//= require jquery.mobile.custom.min

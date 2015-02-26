@@ -15,8 +15,7 @@ gem 'mongoid', '~> 4', github: 'mongoid/mongoid'
 gem 'bson_ext'
 gem 'bower-rails'
 gem 'angular-rails-templates'
-gem "modernizr-rails"
-gem "gumby"
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
