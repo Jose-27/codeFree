@@ -1,0 +1,1 @@
+{"license":"Apache 2.0","tarball_file_size":7206,"version":"2.4.0","average_rating":null,"cookbook":"https://supermarket.chef.io/api/v1/cookbooks/nodejs","file":"https://supermarket.chef.io/api/v1/cookbooks/nodejs/versions/2.4.0/download","dependencies":{"homebrew":">= 0.0.0","apt":">= 0.0.0","ark":">= 0.0.0","build-essential":">= 0.0.0","yum-epel":">= 0.0.0"}}
